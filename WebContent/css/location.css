@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#section {
+	padding-top: 30px;
+}
+
+#location_intro {
+	text-align: center;
+}
+#location_intro2 {
+	text-align: center;
+}
+
+#location_intro2 img{
+	width: 800px;
+	height: 450px;
+}
+
+#mini_map_view{
+	margin: auto;
+}

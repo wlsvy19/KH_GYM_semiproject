@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+#section {
+	padding-top: 30px;	
+}
+
+#section img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#section img#content {
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+#section img#content1 {
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#section img.allBtn {
+	width: 240px;
+	height: 60px;
+	margin: 0;
+	margin-bottom: 30px;
+	text-align: center; auto;
+	display: block;
+	cursor: pointer;
+}
+
+table {
+	margin: auto;
+}
+
+#myCarousel_spinning {
+	display: none;
+}
+
+#myCarousel_yoga {
+	display: none;
+}
+
+#myCarousel_pilates {
+	display: none;
+}
+
+img#content2 {
+	display: none;
+}
+
+img#content3 {
+	display: none;
+}
+
+img#content4 {
+	display: none;
+}
+
+img.content {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.carouselslide {
+	width: 70%;
+	height: 35%;
+	margin: auto;
+}
+
+.carousel .item img {
+	border: 0px solid black;
+}

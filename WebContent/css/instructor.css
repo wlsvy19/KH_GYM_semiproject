@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#section{
+	padding-top: 30px;
+}
+
+#instructor_intro {
+	text-align: center;
+}
+
+#instructor_intro2 {
+	text-align: center;
+}
+
+#instructor_intro2 img{
+	width: 900px;
+	height: 500px;
+}
+
+#instructor_trainer {
+	text-align: center;
+}
+
+#instructor_trainer li img {
+	width: 900px;
+	height: 500px;
+}

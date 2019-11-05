@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#section {
+	padding-top: 30px;	
+}
+
+#aboutprogram_content1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#aboutprogram_content2 {
+	display: block;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+#aboutprogram_content3 {
+	display: block;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-botton: 50px;
+}
+
+#aboutprogram_content4 {
+	display: block;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-botton: 50px;
+}
+
+#aboutprogram_content5 {
+	display: block;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-botton: 50px;
+}
